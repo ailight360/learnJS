@@ -1,0 +1,2 @@
+# learnJS
+JavaScript Learning Journey 
