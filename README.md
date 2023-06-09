@@ -21,4 +21,4 @@ One of many JavaScript HTML methods is `getElementById()`.
 The example below "finds" an HTML element (with id="demo"), and changes the element content (innerHTML) to "Hello JavaScript"
 
 ### Example
-```document.getElementById("demo").innerHTML = "Hello JavaScript"```
+```javascript document.getElementById("demo").innerHTML = "Hello JavaScript"```
