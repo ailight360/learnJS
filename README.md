@@ -12,3 +12,13 @@ JavaScript is one of the 3 languages all web developer must learn:
 3. __JavaScript__ to program the behavior of web pages   
 
 
+# JavaScript Introduction  
+This page contains some example of what JavaScript can do.
+
+## JavaScript Can Change HTML Content
+One of many JavaScript HTML methods is `getElementById()`.  
+
+The example below "finds" an HTML element (with id="demo"), and changes the element content (innerHTML) to "Hello JavaScript"
+
+### Example
+```document.getElementById("demo").innerHTML = "Hello JavaScript"```
